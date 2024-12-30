@@ -3,7 +3,7 @@
 
 ![Alt text](https://github.com/shubhangidoltade/HR-Analytics/blob/7416506415db90572ab04b269044182183104fb3/HR%20Analytics%20Power%20BI%20Dashboard%202.png)
 
-• Created an interactive dashboard using Excel,SQL and Power BI to track, analyze, and improve employee performance and retention.
+• Created an interactive Power BI dashboard to track, analyze, and improve employee performance and retention.
 
 • Identified key factors to reduce attrition by analyzing attrition rates by department, uncovering areas with high turnover
 
