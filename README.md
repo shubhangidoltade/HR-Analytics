@@ -1,5 +1,5 @@
 
-![Alt text](https://github.com/shubhangidoltade/HR-Analytics/blob/f55a0c29aabe3732b4a9359243b7bec82c5aefa2/HR%20Analytics%20Power%20BI%20Dashboard%201.png)
+![Alt text](https://github.com/shubhangidoltade/HR-Analytics/blob/760ebc889e99489696831b06802fb14ff70321d9/HR%20Analytics%20Dashboard%202.png)
 
 ![Alt text](https://github.com/shubhangidoltade/HR-Analytics/blob/7416506415db90572ab04b269044182183104fb3/HR%20Analytics%20Power%20BI%20Dashboard%202.png)
 
